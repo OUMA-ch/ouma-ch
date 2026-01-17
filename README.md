@@ -2,7 +2,7 @@
 
 🎓 Étudiante en Master Réseaux & Systèmes Informatiques  
 💻 Passionnée par le développement logiciel et les systèmes distribués  
-📍 Basée à Rabat, Maroc  
+📍 Basée à Casablanca, Maroc  
 
 ---
 
