@@ -8,7 +8,7 @@
 
 ## 🛠️ Technologies
 
-- Python, Java, JavaScript
+- Java, JavaScript, Python
 - Django, Spring Boot
 - Docker, Git, Linux
 
