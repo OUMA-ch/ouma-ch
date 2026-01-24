@@ -21,4 +21,4 @@
 
 ---
 
-💡 *À la recherche d’un stage en développement backend ou infrastructure cloud.*
+💡 *À la recherche d’un stage en développement full-stack*
